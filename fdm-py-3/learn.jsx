@@ -13,11 +13,9 @@ No exemplo acima nós criamos uma variável chamada <code>Valor</code> e guardam
 
 <p>É possível também guardar em uma variável o resultado de operações aritiméticas:</p>
 
-<CodeViewer>
-  {`>>> Total = (100*25)/12
+<CodeViewer>{`>>> Total = (100*25)/12
 >>> print (Total) 
-208`}
-</CodeViewer>
+208`}</CodeViewer>
 
 <b>Importante:</b>
 <ol>
