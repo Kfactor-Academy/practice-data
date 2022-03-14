@@ -5,13 +5,11 @@ No exemplo acima nós criamos uma variável chamada <code>Valor</code> e guardam
 <p> O objetivo disso tudo é simplificar a quantidade de linhas de código. Veja a seguir como as variáveis podem ser criadas e utilizadas em operações matemáticas:</p>
 <p>Você deseja calcular o custo total de X unidades de produto adquirido:</p>
 
-<CodeViewer>
-  {`>>> Custo_Unidade = 5000
+<CodeViewer>{`>>> Custo_Unidade = 5000
 >>> Quantidade_Unidades = 2
 >>> Custo_Total = Custo_Unidade * Quantidade_Unidades
 >>> print (Custo_Total)
-10000`}
-</CodeViewer>
+10000`}</CodeViewer>
 
 <p>É possível também guardar em uma variável o resultado de operações aritiméticas:</p>
 

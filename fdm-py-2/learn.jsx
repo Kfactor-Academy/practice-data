@@ -1,7 +1,7 @@
 <p>Em Python também é possível realizar operações arimitéticas utilizando comandos específicos.
   Você pode praticamente calcular o que você quiser! Confira os principais operadores na tabela a seguir.</p>
 
-<Table striped="true" bordered="true" hover="true">
+<Table striped bordered hover>
   <thead>
     <tr>
       <th>Operação</th>
@@ -40,12 +40,9 @@
   </tbody>
 </Table>
 <p>Para executar as operações aritiméticas você pode utilizar os operadores combinados com a função <code>print</code>.</p>
-<CodeViewer>
-  {
-`print (2 + 2)
+<CodeViewer>{`print (2 + 2)
 print (100 * 150)
-print ((20 * 2.5)/2)`}
-</CodeViewer><br />
+print ((20 * 2.5)/2)`}</CodeViewer><br />
 <p>É necessário seguir a ordem correta das operações matemáticas:</p>
 <ul>
   <li>1º Parêntesis</li>
@@ -62,10 +59,7 @@ print ((20 * 2.5)/2)`}
   indica a quantidade de casas decimais.
   Veja o exemplo abaixo:
 </p>
-<CodeViewer>
-  {`print (2 + 2)
-print (100 * 150)
-print ((20 * 2.5)/2)`}
-</CodeViewer>
+<CodeViewer>{`>>> print(round(100.43222111, 2))
+100.42`}</CodeViewer>
 
 Observe que o valor foi arredondado para duas casas decimais.
