@@ -1,0 +1,20 @@
+  Matricula  Idade  Nota_parcial  ...          Cidade Nota_media  Status
+0      ID01     20           9.5  ...       São Paulo       8.75    True
+1      ID02     22           5.0  ...  Rio de Janeiro       6.60   False
+2      ID03     35           8.1  ...    Porto Alegre       9.00    True
+3      ID04     18           8.8  ...        Salvador       8.45    True
+4      ID05     27          10.0  ...       Fortaleza       9.70    True
+5      ID06     31           6.2  ...          Manaus       7.10    True
+6      ID07     22           9.0  ...        Curitiba       8.25    True
+
+[7 rows x 7 columns]
+  Matricula  Idade  Nota_parcial  ...          Cidade Nota_media     Status
+0      ID01     20           9.5  ...       São Paulo       8.75   Aprovado
+1      ID02     22           5.0  ...  Rio de Janeiro       6.60  Reprovado
+2      ID03     35           8.1  ...    Porto Alegre       9.00   Aprovado
+3      ID04     18           8.8  ...        Salvador       8.45   Aprovado
+4      ID05     27          10.0  ...       Fortaleza       9.70   Aprovado
+5      ID06     31           6.2  ...          Manaus       7.10   Aprovado
+6      ID07     22           9.0  ...        Curitiba       8.25   Aprovado
+
+[7 rows x 7 columns]

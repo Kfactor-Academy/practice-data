@@ -1,0 +1,9 @@
+  Matricula     Nome  Idade  Nota_parcial  Nota_final
+0      ID01    Pedro     20           9.5         8.0
+1      ID02   Rubens     22           5.0         8.2
+2      ID03  Marcelo     35           8.1         9.9
+3      ID04    Clara     18           8.8         8.1
+4      ID05  Roberto     27          10.0         9.4
+5      ID06    Maria     31           6.2         8.0
+6      ID07  Juliana     22           9.0         7.5
+7      ID05  Roberto     21          10.0         9.4

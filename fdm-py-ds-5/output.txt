@@ -1,0 +1,53 @@
+
+
+---- RELATÓRIO DE VENDAS 2020 ----
+
+
+Faturamento Total = R$ 43078114.77
+
+
+Faturamento por cidade:
+Cidade
+Campinas           1332469.19
+Curitiba           3693324.04
+Fortaleza          8856320.93
+Osasco             5108862.60
+Recife              622875.26
+Ribeirão Preto     5361126.55
+Salvador           3470971.73
+São Paulo         11923276.45
+Uberlândia         1439495.69
+Vila Velha         1269392.33
+Name: Faturamento, dtype: float64
+
+
+Faturamento por mês:
+Mes
+2020-01-01    2619733.37
+2020-02-01    3044230.14
+2020-03-01    2972414.66
+2020-04-01    2628864.56
+2020-05-01    3176198.11
+2020-06-01    2904250.90
+2020-07-01    3033989.70
+2020-08-01    2857543.35
+2020-09-01    4445894.27
+2020-10-01    4814842.87
+2020-11-01    5517017.69
+2020-12-01    5063135.15
+Name: Faturamento, dtype: float64
+
+
+Quantidade de lojas:
+Cidade
+Campinas          1
+Curitiba          1
+Fortaleza         3
+Osasco            1
+Recife            2
+Ribeirão Preto    2
+Salvador          2
+São Paulo         5
+Uberlândia        1
+Vila Velha        1
+Name: Lojas, dtype: int64

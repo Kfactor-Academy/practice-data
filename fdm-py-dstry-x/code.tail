@@ -1,0 +1,1 @@
+graficolinha.get_figure().savefig('output.png')
