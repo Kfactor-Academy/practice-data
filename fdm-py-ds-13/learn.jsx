@@ -1,5 +1,3 @@
-<p><h3><b>Métodos de Arquivos</b></h3></p>
-
 <p>Normalmente utilizamos <b>arquivos</b> para armazenar algo que foi processado que não queremos que seja perdido quando o computador
   for desligado (porque dessa forma é armazenado na memória principal) e para capturar dados rapidamente ao invés de digitar um
   por um, por isso é extremamente importante conhecer comandos de manipulação de <b>arquivos</b> em <code>Python</code>.</p>
