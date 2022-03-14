@@ -1,6 +1,6 @@
 <p>Em Python você pode criar variáveis e guardar informações, que depois podem ser utilizadas para realizar operações.</p>
 Mas o que é uma variável? Neste caso, uma variável é um espaço na memória. Você pode criar uma variável com o nome que desejar e usar o símbolo <code>=</code> para atribuir ou guardar um dado dentro dela.
-<CodeViewer>{`Valor = 10`}</CodeViewer>
+<CodeViewer>{'Valor = 10'}</CodeViewer>
 No exemplo acima nós criamos uma variável chamada <code>Valor</code> e guardamos o número <code>10</code> nela com o símbolo de igual.
 <p> O objetivo disso tudo é simplificar a quantidade de linhas de código. Veja a seguir como as variáveis podem ser criadas e utilizadas em operações matemáticas:</p>
 <p>Você deseja calcular o custo total de X unidades de produto adquirido:</p>
