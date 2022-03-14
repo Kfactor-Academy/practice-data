@@ -1,7 +1,7 @@
 <p>Em Python também é possível realizar operações arimitéticas utilizando comandos específicos.
   Você pode praticamente calcular o que você quiser! Confira os principais operadores na tabela a seguir.</p>
 
-<Table striped bordered hover>
+<Table striped="true" bordered="true" hover="true">
   <thead>
     <tr>
       <th>Operação</th>
