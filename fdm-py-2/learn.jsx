@@ -42,10 +42,9 @@
 <p>Para executar as operações aritiméticas você pode utilizar os operadores combinados com a função <code>print</code>.</p>
 <CodeViewer>
   {
-    'print (2 + 2)\n' +
-    'print (100 * 150)\n' +
-    'print ((20 * 2.5)/2)'
-  }
+`print (2 + 2)
+print (100 * 150)
+print ((20 * 2.5)/2)`}
 </CodeViewer><br />
 <p>É necessário seguir a ordem correta das operações matemáticas:</p>
 <ul>
@@ -64,10 +63,9 @@
   Veja o exemplo abaixo:
 </p>
 <CodeViewer>
-  {
-    '>>> print(round(100.43222111, 2))\n' +
-    '100.42'
-  }
+  {`print (2 + 2)
+print (100 * 150)
+print ((20 * 2.5)/2)`}
 </CodeViewer>
 
 Observe que o valor foi arredondado para duas casas decimais.
