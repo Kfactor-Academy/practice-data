@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reclamacoes>
+<pedido>
+<id_pedido>178</id_pedido>
+<reclamacao>Eu pedi 5 livros, tive a confirmação do pagamento mas, mesmo assim não chegaram, o prazo de entrega era 3 semanas mas, esse prazo acabou e ainda não chegou, resolvam isso por favor.</reclamacao>
+</pedido>
+<pedido>
+<id_pedido>302</id_pedido>
+<reclamacao>EU PEDI 3 LIVROS, O CONTO DA AIA, A CORTE DOS ESPINHOS E ROSAS E O CONCUNDA DE NOTRE DAME, MAS O CONTO DA AIA NÃO CHEGOU E EU PAGUEI POR TODOS OS TRÊS LIVROS, RESOLVAM ISSO AGORA.</reclamacao>
+</pedido>
+<pedido>
+<id_pedido>345</id_pedido>
+<reclamacao>Eu utilizei um cupom de desconto no pedido, o valor total do pedido era 120 reais e com o desconto é 90,54 reais, no site aparece o valor com desconto mas, na fatura do cartão do crédito foi cobrado o valor integral.</reclamacao>
+</pedido>
+</reclamacoes>
