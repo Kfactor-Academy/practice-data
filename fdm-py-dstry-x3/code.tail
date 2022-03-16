@@ -1,1 +1,0 @@
-graficobarras.get_figure().savefig('output')

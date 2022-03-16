@@ -1,1 +1,0 @@
-graficoboxplot.get_figure().savefig('output')

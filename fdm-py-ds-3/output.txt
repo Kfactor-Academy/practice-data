@@ -1,8 +1,0 @@
-  Matricula  Idade  Nota_parcial  Nota_final          Cidade  Nota_media
-0      ID01     20           9.5         8.0       São Paulo        8.75
-1      ID02     22           5.0         8.2  Rio de Janeiro        6.60
-2      ID03     35           8.1         9.9    Porto Alegre        9.00
-3      ID04     18           8.8         8.1        Salvador        8.45
-4      ID05     27          10.0         9.4       Fortaleza        9.70
-5      ID06     31           6.2         8.0          Manaus        7.10
-6      ID07     22           9.0         7.5        Curitiba        8.25
