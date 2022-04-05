@@ -1,0 +1,5 @@
+MongoDB
+
+MongoDB é um banco de dados não relacional, ideal para aplicações de big data e machine learning por apresentar dados semi-estruturados ou não estruturados, fazendo com que banco de dados tão engessados quanto os bancos de dados relacionais não possam ser utilizados, principalmente por causa da dinamização em alta velocidade e em volumes astronômicos dos dados de modelos de Machine Learning.*
+
+O MongoDB  é um banco de dados orientado a documentos, no caso os documentos funcionam como registros de uma tabela, e o conjunto de registros (a tabela) é chamada de collection, esses documentos são documentos do tipo .json , que em linguagens como Python são manipulados através de dicionários. Os documentos possuem identificação secundária , ou seja, além da chave primária eles possuem outra forma de identificar os documentos, eles também podem ser integrados uns aos outros com muito menos custo de hardware do que o join dos bancos de dados estruturados.
